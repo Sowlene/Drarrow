@@ -13,7 +13,7 @@ franklin = turtle.Turtle() #La tortue.
 #Avec ses paramètres. 
 fenetre = Tk()
 fenetre.geometry("700x500+300+0")
-fenetre.title('Turtle')
+fenetre.title('Drarrow')
 fenetre['bg'] = "white"
 
 #Musique maestro.
