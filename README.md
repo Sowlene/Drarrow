@@ -1,9 +1,9 @@
+Projects 2016-2017    --    Development   --    Solène . P
+
 # Drarrow
 
-Manuel d’utilisation de Drarow
+Manuel d’utilisation de # Drarrow
  
-Projects 2016-2017    --    Development   --    Solène.P
-
 
 3.2	AVERTISSEMENTS	
 
@@ -61,19 +61,19 @@ Le jeu se joue avec un clavier AZERTY et un pavé numérique
  
 Dans l’encart prévu pour, rentrer la couleur de votre choix (en anglais)
 
-  -	blue	pour	« Bleu »
-  -	green	pour	« Vert »
-  -	yellow	pour	« Jaune »
-  -	red	pour	« Rouge »
-  -	pink	pour	« Rose »
-  -	brown	pour	« Marron »
-  -	black	pour	« Noir »
-  -	white	pour	« Blanc »
-  -	orange	pour	« Orange »
-  -	purple	pour	« Violet »
-  -	grey	pour	« Gris »
+   -	blue	pour	« Bleu »
+   -	green	pour	« Vert »
+   -	yellow	pour	« Jaune »
+   -	red	pour	« Rouge »
+   -	pink	pour	« Rose »
+   -	brown	pour	« Marron »
+   -	black	pour	« Noir »
+   -	white	pour	« Blanc »
+   -	orange	pour	« Orange »
+   -	purple	pour	« Violet »
+   -	grey	pour	« Gris »
 
-    o	Répéter l’action :
+  o	Répéter l’action :
 
 Dans l’encart prévu juste au dessus du bouton « Nombre de répétition », il vous faudra indiquer le nombre de répétitions souhaitées puis d’appuyer sur le bouton « Nombre de répétitions ! »
 
