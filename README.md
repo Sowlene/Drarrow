@@ -5,39 +5,15 @@ Projects 2016-2017    --    Development   --    Solène . P
 Manuel d’utilisation de # Drarrow
  
 
-3.2	AVERTISSEMENTS	
+• CONFIGURATIONS
+  •	Versions :
+
+Python : 3.5 
+Pygame : 1.9
+Imported module : Tkinter.
 
 
-À LIRE AVANT TOUTE UTILISATION D’UN JEU VIDEO PAR VOUS-MEME OU PAR VOTRE ENFANT.
-
-  •	Précautions à prendre :
-
-Évitez de jouer si vous êtes fatigué ou si vous manquez de sommeil. Assurez-vous que vous jouez dans une pièce bien éclairée en modérant la luminosité de votre écran.
-
-Lorsque vous utilisez un jeu vidéo susceptible d’être connecté à un écran, jouez à bonne distance de cet écran et aussi loin que le permet le cordon de raccordement.
-
-En cours d’utilisation, faites des pauses de dix à quinze minutes.
-
-
-3.3	CONFIGURATION DU MATÉRIEL	
-  •	Versions des logiciels :
-
-Logiciel Python : 3.5 Logiciel Pygame : 1.9 Import module Tkinter.
-
-  •	Configuration minimale :
-
-Pour Windows :
-  Versions compatibles: XP, VISTA, 7, 8,10 Processeur : Supérieur ou égal à un Intel Pentium III RAM : 2 Go
-  Carte Graphique : 32 Mo
-  Mémoire requise : 40 Mo libres ou plus Clavier : AZERTY (Français)
-
-Compatible MacOs :
-  Versions compatibles : OS X El capitan / Os Sierra Processeur : Supérieur ou égal à un Intel Pentium III RAM : 2 Go
-  Carte Graphique : 32 Mo
-  Mémoire requise : 40 Mo libres ou plus Clavier : AZERTY (Français)
-
-
-3.4	PRÉSENTATION DU JEU	
+• PRÉSENTATION DU JEU	
   •	Introduction :
 
 Drarrow à pour but de faire des dessins en fonction de ce que nous lui demandons. 
