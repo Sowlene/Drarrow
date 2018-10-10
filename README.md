@@ -6,6 +6,7 @@ Manuel d’utilisation de # Drarrow
  
 
 • CONFIGURATIONS
+  
   •	Versions :
 
 Python : 3.5 
@@ -14,6 +15,7 @@ Imported module : Tkinter.
 
 
 • PRÉSENTATION DU JEU	
+  
   •	Introduction :
 
 Drarrow à pour but de faire des dessins en fonction de ce que nous lui demandons. 
