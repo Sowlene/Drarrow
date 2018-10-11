@@ -4,8 +4,7 @@ Projects 2016-2017    --    Development   --    Solène . P
 
 Manuel d’utilisation de # Drarrow
  
-
-• CONFIGURATIONS
+## Configuration
   
   •	Versions :
 
@@ -14,7 +13,7 @@ Pygame : 1.9
 Imported module : Tkinter.
 
 
-• PRÉSENTATION DU JEU	
+### PRÉSENTATION DU JEU	
   
   •	Introduction :
 
@@ -57,9 +56,9 @@ Dans l’encart prévu juste au dessus du bouton « Nombre de répétition », i
 
 _____
 
-4	TECHNICAL DOCUMENTATION	
+##	Technical Documentation
 
-4.2	MOTEUR GRAPHIQUE	
+###	MOTEUR GRAPHIQUE	
 •	Pourquoi « Pygame » ?
 
 Dans ce contexte, nous n’utilisons pas « Pygame » pour son interface graphique. Nous l’utilisons à fin d’avoir accès au module pour la musique, car sur « Tkinter » il est inexistant, ou incomplet (impossibilité de lire de nombreux formats de fichiers).
@@ -69,7 +68,8 @@ Dans ce contexte, nous n’utilisons pas « Pygame » pour son interface graphiq
 « Tkinter » nous sert exclusivement d’interface graphique. C’est un module pré implémenté à Python, donc pas besoin de l’installer contrairement à « Pygame » si vous avez déjà une version de Python. Également, il a l’avantage d’être portable, et donc d’être compatible sur tout les OS.
 Pour finir, « Tkinter » couplé à la fonction Turtle.py de python permet de dessiner des formes sur l’interface graphique / page que nous propose « Tkinter ».
 
-4.3	ALGORITHMES
+
+###	ALGORITHMES
 •	Les déplacements du curseur.
 
 Les déplacement du curseur récupérés par l’action d’appuyer sur le bouton « envoyer », ce bouton permet la récupération des informations rentrées par l’utilisateur dans les trois variables :
@@ -78,7 +78,7 @@ Les déplacement du curseur récupérés par l’action d’appuyer sur le bouto
 -	DistanceWrite qui va devenir DistanceRecup pour l’utiliser. Grace aux valeurs récupérées nous allons pouvoir utiliser les fonctions « left », « right », « backward », « toward ».
 
 
-4.4	LES FONCTIONNALITÉS	
+###	LES FONCTIONNALITÉS	
 
 •	Le « Reset »
 
@@ -119,7 +119,7 @@ Néanmoins la suite diffère une fois la valeur récupérée. En effet à partir
 « Envoyer »
 
 
-4.5	BONUS	
+###	BONUS	
 
 •	La musique
 
